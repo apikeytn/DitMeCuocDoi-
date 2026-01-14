@@ -1,0 +1,9 @@
+Package: com.trongquoc.menu
+Name: TrongQuoc
+Depends: mobilesubstrate
+Version: 1.93.1
+Architecture: iphoneos-arm
+Description: TrongQuoc
+Maintainer: TrongQuoc
+Author: TrongQuoc
+Section: Tweaks
